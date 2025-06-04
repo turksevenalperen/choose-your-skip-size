@@ -75,8 +75,8 @@ PWA: Offline functionality
 
 1. Clone the repository
   
-   git clone https://github.com/yourusername/skip-selector.git
-   cd skip-selector
+   git clone https://github.com/turksevenalperen/choose-your-skip-size.git
+   cd choose-your-skip-size
 
 
 2. **Install dependencies**
