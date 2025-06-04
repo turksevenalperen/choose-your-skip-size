@@ -76,22 +76,23 @@ PWA: Offline functionality
 1. Clone the repository
   
    git clone https://github.com/turksevenalperen/choose-your-skip-size.git
+
    cd choose-your-skip-size
 
 
-2. **Install dependencies**
+3. **Install dependencies**
  
    npm install 
    # or
    yarn install
    
 
-3. **Run the development server**
+4. **Run the development server**
    
    npm run dev
    # or
    yarn dev
-4. **Open your browser**
+5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
 ### Build for Production
